@@ -1,3 +1,4 @@
 # Chi ha partecipato?
-Prof. Stefano Castagnoli.
+Prof. Stefano Castagnoli
+
 ![](img/persone/scastagnoli2019.jpg)
