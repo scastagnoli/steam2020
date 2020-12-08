@@ -1,10 +1,8 @@
 # Sorgente block
 
-![](../img/contatoreTestaCroce.png)
-
 
 # Sorgente Python
-
+```
 def resetContatori():
     global teste, croci
     teste = 0
@@ -33,3 +31,4 @@ input.on_button_pressed(Button.B, on_button_pressed_b)
 croci = 0
 teste = 0
 resetContatori()
+```
