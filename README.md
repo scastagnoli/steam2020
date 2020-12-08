@@ -5,4 +5,4 @@ I contenuti sono organizzati nel modo seguente:
 ## Code
 Versione Python degli esercizi
 ## Wiki
-Versione Blocks degli esercizi
+Versione Blocks degli esercizi, commenti al codice, e un pò di noi :-)
