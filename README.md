@@ -10,19 +10,19 @@ Quello che ne è scaturito è un insieme di esercitazioni molto orientate alla p
 
 ##Esercizi
 
-[Esercizio 1](esercizi/esercizio1.md): Contatore di numero testa e numero croce nel lancio di una moneta
+[Esercizio 1](blob/main/esercizi/esercizio1.md): Contatore di numero testa e numero croce nel lancio di una moneta
 
 Argomenti:
 
-[Esercizio 2](esercizi/esercizio2.md)
+[Esercizio 2](blob/main/esercizi/esercizio2.md)
 
-[Esercizio 3](esercizi/esercizio3.md)
+[Esercizio 3](blob/main/esercizi/esercizio3.md)
 
-[Esercizio 4](esercizi/esercizio4.md)
+[Esercizio 4](blob/main/esercizi/esercizio4.md)
 
-[Esercizio 5](esercizi/esercizio5.md)
+[Esercizio 5](blob/main/esercizi/esercizio5.md)
 
-[Esercizio 6](esercizi/esercizio6.md)
+[Esercizio 6](blob/main/esercizi/esercizio6.md)
 
 
 
