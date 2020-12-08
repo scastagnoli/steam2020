@@ -1,6 +1,6 @@
 # Sorgente block
 
-![Contatore testa/croce](../img/contatoreTestaCroce.png)
+![Contatore testa/croce](../img/esercizi/contatoreTestaCroce.png)
 
 # Sorgente Python
 ```
