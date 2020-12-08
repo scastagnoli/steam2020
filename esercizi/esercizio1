@@ -1,3 +1,9 @@
+# Sorgente block
+
+![](../img/contatoreTestaCroce.png)
+
+# Sorgente Python
+
 def resetContatori():
     global teste, croci
     teste = 0
