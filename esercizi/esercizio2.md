@@ -1,6 +1,6 @@
 # Sorgente block
 
-![Contatore circolare modulo 10](../img/contatoreCircolareModulo10.png)
+![Contatore circolare modulo 10](../img/esercizi/contatoreCircolareModulo10.png)
 
 # Sorgente Python
 ```
