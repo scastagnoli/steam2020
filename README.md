@@ -1,7 +1,12 @@
 # STEAM2020
-Lezioni realizzate nel contesto di Operazione Rif. PA 2019-12591/RER (AZIONE 3) approvata con D.G.R. N. 1721/2019 DEL 21/10/2019 cofinanziata dal Fondo Sociale Europeo PO 2014-2020 Regione Emilia-Romagna Ciclo di percorsi laboratoriali sulle STEAM ISCOM.
+Benvenuti nella pagina del corso STEAM "Tutti in forma con il coding :-)".
+Il titolo "simpatico" sta ad indicare una specifica applicazione che ci siamo posti: realizzare un sistema elettronico, programmato da giovani, con cui poter interagire per una specifica ragione: essere guidati dal sistema in un sistema di allenamento.
+Non ponendosi l'obiettivo di sostituire un personal trainer professionale questo progetto si propone di:
+1. integrare strumenti tecnologici a basso costo con la vita di tutti i giorni
+2. imparare ad applicare alcuni concetti base del coding specialmente tramite l'uso di tecnologie software basate sul linguaggio Scratch (https://scratch.mit.edu/)
+3. apprezzare alcuni elementi di differenza fra un linguaggio "convenzionale" (Python/JavaScript/Visual Basic) e uno basata su logica "a blocchi"
 
-La realizzazione di queste pagine è stata possibile grazie anche alla collaborazione con FabLab Romagna.
+Quello che ne è scaturito è un insieme di esercitazioni molto orientate alla pratica, senza molta teoria, allo scopo di realizzare subito "qualcosa" nel tentativo di superare le difficoltà iniziale nell'approccio a una nuova tecnologia in modo da stimolare la motivazione di chi non necessariamente è "nerd", cioè di chi non sia particolarmente interessato alla tecnologia in sè ma è interessato invece in alcune particolare applicazioni in cui la tecnologia ci può coinvolgere.
 
 I contenuti sono organizzati nel modo seguente:
 ## Code
