@@ -1,6 +1,3 @@
-Contatore di numero testa e numero croce nel lancio di una moneta.
-Argomenti: pressione pulsanti, blocchi logici, mostra icona, uso variabili, funzioni, concatenazine testo
-
 def resetContatori():
     global teste, croci
     teste = 0
