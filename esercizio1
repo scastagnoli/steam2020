@@ -1,2 +1,18 @@
 Contatore di numero testa e numero croce nel lancio di una moneta.
 Argomenti: pressione pulsanti, blocchi logici, mostra icona, uso variabili, funzioni, concatenazine testo
+
+basic.show_string("Filippo 2")
+
+def on_forever():
+    if input.light_level() >= 128:
+        basic.show_icon(IconNames.STICK_FIGURE)
+        basic.show_leds("""
+            . . # . .
+            # # # # #
+            . . # . .
+            . # . # .
+            . # . # .
+            """)
+    else:
+        basic.show_icon(IconNames.SQUARE)
+basic.forever(on_forever)
