@@ -8,8 +8,25 @@ Non ponendosi l'obiettivo di sostituire un personal trainer professionale questo
 
 Quello che ne è scaturito è un insieme di esercitazioni molto orientate alla pratica, senza molta teoria, allo scopo di realizzare subito "qualcosa" nel tentativo di superare le difficoltà iniziale nell'approccio a una nuova tecnologia in modo da stimolare la motivazione di chi non necessariamente è "nerd", cioè di chi non sia particolarmente interessato alla tecnologia in sè ma è interessato invece in alcune particolare applicazioni in cui la tecnologia ci può coinvolgere.
 
-I contenuti sono organizzati nel modo seguente:
-## Code
-Versione Python degli esercizi
-## Wiki
-Versione Blocks degli esercizi, commenti al codice, e un pò di noi :-
+##Esercizi
+
+[Esercizio 1](esercizi/esercizio1.md): Contatore di numero testa e numero croce nel lancio di una moneta
+
+Argomenti:
+
+[Esercizio 2](esercizi/esercizio2.md)
+
+[Esercizio 3](esercizi/esercizio3.md)
+
+[Esercizio 4](esercizi/esercizio4.md)
+
+[Esercizio 5](esercizi/esercizio5.md)
+
+[Esercizio 6](esercizi/esercizio6.md)
+
+
+
+## Io c'ero!
+Questa sezione è dedicata a una brece presentazione di chi ha partecipato al corso: studentesse e studenti dell'ITC "R.Serra" di Cesena.
+
+[Elenco dei partecipanti al corso](iocero.md)
