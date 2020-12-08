@@ -8,13 +8,19 @@ Non ponendosi l'obiettivo di sostituire un personal trainer professionale questo
 
 Quello che ne è scaturito è un insieme di esercitazioni molto orientate alla pratica, senza molta teoria, allo scopo di realizzare subito "qualcosa" nel tentativo di superare le difficoltà iniziale nell'approccio a una nuova tecnologia in modo da stimolare la motivazione di chi non necessariamente è "nerd", cioè di chi non sia particolarmente interessato alla tecnologia in sè ma è interessato invece in alcune particolare applicazioni in cui la tecnologia ci può coinvolgere.
 
-##Esercizi
+## Esercizi
 
-[Esercizio 1](esercizi/esercizio1.md): Contatore di numero testa e numero croce nel lancio di una moneta
+[Esercizio 1](esercizi/esercizio1.md): contatore di numero testa e numero croce nel lancio di una moneta (https://makecode.microbit.org/_f8gCy5AaJMwt)
 
-Argomenti:
+_Descrizione_: premendo il pulsante A viene simulato il lancio di un dado, premendo B vengono resettati i contatori del numero di teste e di croci
 
-[Esercizio 2](esercizi/esercizio2.md)
+_Argomenti_: pressione pulsanti A e B, blocchi di logica (se/allora/altrimenti), mostra icona, controllo variabili, funzioni, concatenazione stringhe
+
+[Esercizio 2](esercizi/esercizio2.md): contatore circolare modulo 10 (https://makecode.microbit.org/_0a1iqd2JcU5D)
+
+_Descrizione_: premendo A ottengo la sequenza 1,2,3,…, 10,1,2,…; premendo B ottengo la sequenza 10,9,8,…1,10,9,8,… 
+
+_Argomenti_: blocchi di logica (se/allora), controllo variabili, controllo pulsanti A e B, commenti al codice 
 
 [Esercizio 3](esercizi/esercizio3.md)
 
