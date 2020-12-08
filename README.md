@@ -14,15 +14,15 @@ Quello che ne è scaturito è un insieme di esercitazioni molto orientate alla p
 
 Argomenti:
 
-[Esercizio 2](esercizi/esercizio2.md)
+[Esercizio 2](esercizi/esercizio2)
 
-[Esercizio 3](esercizi/esercizio3.md)
+[Esercizio 3](esercizi/esercizio3)
 
-[Esercizio 4](esercizi/esercizio4.md)
+[Esercizio 4](esercizi/esercizio4)
 
-[Esercizio 5](esercizi/esercizio5.md)
+[Esercizio 5](esercizi/esercizio5)
 
-[Esercizio 6](esercizi/esercizio6.md)
+[Esercizio 6](esercizi/esercizio6)
 
 
 
