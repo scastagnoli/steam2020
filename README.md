@@ -66,15 +66,25 @@ _Argomenti_:
 A e B servono per attivare un tipo di allenamento
 I LED visualizzano il tipo di allenamento: 1,2,3
 A seconda del tipo di allenamento devo visualizzare un messaggio diverso a seconda del numero di passi al minuto:
+
 	1:
+	
 		numero passi al minuto < 30 => KO
+		
 		numero passi al minuto > 30 => OK
+		
 	2:
+	
 		numero passi al minuto < 60 => KO
+		
 		numero passi al minuto > 60 => OK
+		
 	3:
+	
 		numero passi al minuto < 90 => KO
+		
 		numero passi al minuto > 90 => OK
+		
 Il numero di passi al minuto deve essere calcolato sulla base di quanti passi vengono svolti in 5 secondi, quindi vengono moltiplicati per 12.
 
 
