@@ -2,6 +2,7 @@
 
 ![](../img/contatoreTestaCroce.png)
 
+
 # Sorgente Python
 
 def resetContatori():
