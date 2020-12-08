@@ -11,8 +11,8 @@ Non ponendosi l'obiettivo di sostituire un personal trainer professionale questo
 Quello che ne è scaturito è un insieme di esercitazioni molto orientate alla pratica, senza molta teoria, allo scopo di realizzare subito "qualcosa" nel tentativo di superare le difficoltà iniziale nell'approccio a una nuova tecnologia in modo da stimolare la motivazione di chi non necessariamente è "nerd", cioè di chi non sia particolarmente interessato alla tecnologia in sè ma è interessato invece in alcune particolare applicazioni in cui la tecnologia ci può coinvolgere.
 
 Il tutto è stato possibile grazie a:
-* ISCOM
-* ITC "R.Serra"
+* ISCOM Cesena
+* ITC "R.Serra" di Cesena
 * FabLab Romagna
 
 ## Esercizi
