@@ -10,7 +10,7 @@ Quello che ne è scaturito è un insieme di esercitazioni molto orientate alla p
 
 ##Esercizi
 
-[Esercizio 1](esercizi/esercizio1.md): Contatore di numero testa e numero croce nel lancio di una moneta
+[Esercizio 1](esercizi/esercizio1): Contatore di numero testa e numero croce nel lancio di una moneta
 
 Argomenti:
 
