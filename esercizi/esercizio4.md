@@ -1,6 +1,6 @@
 # Sorgente block
 
-![Temperatura media](../img/esercizi/temparaturaMedia.png)
+![Temperatura media](../img/esercizi/temperaturaMedia.png)
 
 # Sorgente Python
 ```
