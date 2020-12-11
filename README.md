@@ -46,9 +46,9 @@ _Descrizione_: ogni 5 secondi visulizza la temperatura media fra quelle misurate
 
 _Argomenti_: variabili, sensore di temperatura, blocchi logica (se/allora/altrimenti), operazione aritmetica (somma, divisione)
 
-[Esercizio 5](esercizi/esercizio5.md): 
+[Esercizio 5](esercizi/esercizio5.md): contapassi (https://makecode.microbit.org/_P6HhoXA4aFif)
 
-_Descrizione_: 
+_Descrizione_: utilizzando l'accelerometro integrato conto ogni passo che viene fatto. Un passo è contato quando l'accelerometro misura oscilla fra 1000mg e 0mg
 
 _Argomenti_: 
 
