@@ -34,12 +34,12 @@ _Descrizione_: premendo A ottengo la sequenza 1,2,3,…, 10,1,2,…; premendo B 
 
 _Argomenti_: blocchi di logica (se/allora), controllo variabili, controllo pulsanti A e B, commenti al codice 
 
-[Esercizio 3](esercizi/esercizio3.md): 
+[Esercizio 3](esercizi/esercizio3.md): calcolatore di temperatura minima e massima (https://makecode.microbit.org/_dFTCMpcTz3xs)
 
 
-_Descrizione_: calcolatore di temperatura minima e massima: salvo la temperatura minima e massima e le visualizzo sul display
+_Descrizione_: premendo il pulsante A visualizzo la temperatura massima, premendo B la temperatura minima
 
-_Argomenti_: 
+_Argomenti_: variabili, sensore di temperatura, pressione pulsanti, blocchi di logica, visualizzazione dati su LED
 
 [Esercizio 4](esercizi/esercizio4.md): 
 
