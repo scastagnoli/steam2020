@@ -1,6 +1,6 @@
 # Sorgente block
 
-![Misuratore temperature minima e massima](../img/esercizi/temperatureMinMax.png)
+![Misuratore temperature minima e massima](../img/esercizi/temperaturaMinMax.png)
 
 # Sorgente Python
 ```
