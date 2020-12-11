@@ -44,7 +44,7 @@ _Argomenti_: variabili, sensore di temperatura, pressione pulsanti, blocchi di l
 
 _Descrizione_: ogni 5 secondi visulizza la temperatura media fra quelle misurate ogni secondo
 
-_Argomenti_: variabili, sensore di temperatura, blocchi logica (se/alora/altrimenti), operazione aritmetica (somma, divisione)
+_Argomenti_: variabili, sensore di temperatura, blocchi logica (se/allora/altrimenti), operazione aritmetica (somma, divisione)
 
 [Esercizio 5](esercizi/esercizio5.md): 
 
