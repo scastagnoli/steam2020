@@ -17,9 +17,7 @@ Il tutto è stato possibile grazie a:
 
 ## Esercizi
 
-Calcolatore di temperatura minima e massima: salvo la temperatura minima e massima e le visualizzo sul display
-Temperatura media in un intervallo di tempo: attenzione alla conversione fra decimale e stringa ;-)
-Contapassi
+Di seguito si riporta una collezione di esercizi svolti dalle persone partecipanti. Sono stati raccolti solamente gli esercizi ritenuti più significativi per arrivare alle conoscenze che potessero permettere di risolvere l'esercizio finale.
 
 
 [Esercizio 1](esercizi/esercizio1.md): contatore di numero testa e numero croce nel lancio di una moneta (https://makecode.microbit.org/_f8gCy5AaJMwt)
@@ -50,7 +48,7 @@ _Argomenti_: variabili, sensore di temperatura, blocchi logica (se/allora/altrim
 
 _Descrizione_: utilizzando l'accelerometro integrato conto ogni passo che viene fatto. Un passo è contato quando l'accelerometro misura oscilla fra 1000mg e 0mg
 
-_Argomenti_: 
+_Argomenti_: variabili, porta seriale, accelerometro, funzione logica AND, blocchi logica
 
 [Esercizio 6](esercizi/esercizio6.md): Prova di velocità pressione pulsante (https://makecode.microbit.org/_KKd2RzPK3EC1)
 
