@@ -12,7 +12,7 @@ Quello che ne è scaturito è un insieme di esercitazioni molto orientate alla p
 
 Il tutto è stato possibile grazie a:
 * ISCOM Cesena
-* ITC "R.Serra" di Cesena
+* ITC "R. Serra" di Cesena
 * FabLab Romagna
 
 ## Esercizi
@@ -36,17 +36,15 @@ _Argomenti_: blocchi di logica (se/allora), controllo variabili, controllo pulsa
 
 [Esercizio 3](esercizi/esercizio3.md): calcolatore di temperatura minima e massima (https://makecode.microbit.org/_f7C5E5XJXUKE)
 
-
 _Descrizione_: premendo il pulsante A visualizzo la temperatura massima, premendo B la temperatura minima
 
 _Argomenti_: variabili, sensore di temperatura, pressione pulsanti, blocchi di logica, visualizzazione dati su LED
 
-[Esercizio 4](esercizi/esercizio4.md): 
+[Esercizio 4](esercizi/esercizio4.md): temperatura media in un intervallo di tempo (https://makecode.microbit.org/_5pHR1qcHRK0w)
 
+_Descrizione_: ogni 5 secondi visulizza la temperatura media fra quelle misurate ogni secondo
 
-_Descrizione_: 
-
-_Argomenti_: 
+_Argomenti_: variabili, sensore di temperatura, blocchi logica (se/alora/altrimenti), operazione aritmetica (somma, divisione)
 
 [Esercizio 5](esercizi/esercizio5.md): 
 
