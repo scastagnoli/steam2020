@@ -52,32 +52,34 @@ _Descrizione_: utilizzando l'accelerometro integrato conto ogni passo che viene 
 
 _Argomenti_: 
 
-[Esercizio 6](esercizi/esercizio6.md):
+[Esercizio 6](esercizi/esercizio6.md): Prova di velocità pressione pulsante (https://makecode.microbit.org/_KKd2RzPK3EC1)
 
-_Descrizione_: 
+_Descrizione_: ogni 5 secondi viene visualizzato sulla porta seriale il numero di pressioni del pulsante A
 
-_Argomenti_: 
+_Argomenti_: variabili, scrittura su porta seriale, pausa, conversione numero in stringa
 
 
 ## Esercizio finale
+
+[Link alla pagina del progetto](esercizi/esercizioFinale.md): programma di 3 tipi di allenamento differenziati per velocità espressa in passi/minuto (https://makecode.microbit.org/_2XtTbT8UTCeT)
 
 A e B servono per attivare un tipo di allenamento
 I LED visualizzano il tipo di allenamento: 1,2,3
 A seconda del tipo di allenamento devo visualizzare un messaggio diverso a seconda del numero di passi al minuto:
 
-	1:
+	allenamento 1:
 	
 		numero passi al minuto < 30 => KO
 		
 		numero passi al minuto > 30 => OK
 		
-	2:
+	allenamento 2:
 	
 		numero passi al minuto < 60 => KO
 		
 		numero passi al minuto > 60 => OK
 		
-	3:
+	allenamento 3:
 	
 		numero passi al minuto < 90 => KO
 		
