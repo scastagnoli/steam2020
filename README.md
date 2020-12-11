@@ -37,7 +37,7 @@ _Argomenti_: blocchi di logica (se/allora), controllo variabili, controllo pulsa
 [Esercizio 3](esercizi/esercizio3.md): 
 
 
-_Descrizione_: 
+_Descrizione_: calcolatore di temperatura minima e massima: salvo la temperatura minima e massima e le visualizzo sul display
 
 _Argomenti_: 
 
