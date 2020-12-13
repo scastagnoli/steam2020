@@ -19,6 +19,9 @@ Ho partecipato a questo corso perchè volevo approfondire le mie conoscenze info
 
 ## Ilaria
 
+Visto che mi è sempre piaciuta l'informatica e la scuola mi ha dato l'opportunità di fare un progetto legato a questa materia ne ho voluto approfittare e quindi ho aderito e ho imparato ad usare un nuovo programma molto carino, Microbit.
+
+
 ## Enrico
 
 Grazie alla scuola ho avuto l'opportunità di partecipare a questo progetto, visto la mia passione per l'informatica.
