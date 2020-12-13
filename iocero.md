@@ -9,13 +9,22 @@ Tecnologia e didattica sono sempre la mia passione ;-)
 
 ## Nicolò
 
+Interessanti gli aspetti pratici, felice di aver partecipato.
+
 ## Nico
+
+Ho deciso di partecipare a questo procetto per svariati motivi. Innanzitutto mi piace molto l'informatica, infatti alla fine del biennio ho scelto il ramo SIA per continuare gli studi, e poi anche perchè mi piace mettermi in gioco per cercare di acquisire sempre più conoscenze. Il progetto è stato molto utile e ho imparato a programmare il dispositivo microbit.
 
 ## Elena
 
 Ho partecipato a questo corso perchè volevo approfondire le mie conoscenze informatiche, grazie ad esso ho conosciuto nuovi metodi di programmazione che mi hanno incuriosito molto e che spero di approfondire in futuro.
 
 ## Annachiara
+
+Un corso che mi ha permesso di vedere l'informatica con un occhio diverso rispetto a come la vedo a scuola.
+Dai classici esercizi "astratti" che si fanno in laborario con VB, siamo passati a degli esercizi "reali", che portano a qualcosa di concreto. 
+Vedere come un esercizio che può sembrare facile, in realtà sia anche abbastanza tosto, trasformarsi un una cosa reale è stato interessante e costruttivo.
+Ho trovato solo una cosa difficile: usare un linguaggio di programmazione un po' diverso da quello che uso nell'ordinario.
 
 ## Ilaria
 
