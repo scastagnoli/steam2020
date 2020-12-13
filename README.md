@@ -88,6 +88,7 @@ Il numero di passi al minuto deve essere calcolato sulla base di quanti passi ve
 
 
 ## Io c'ero!
-Questa sezione è dedicata a una breve presentazione di chi ha partecipato al corso: studentesse e studenti dell'ITC "R.Serra" di Cesena.
+Questa sezione è dedicata a un breve commento di alcuni partecipanti al corso: studentesse e studenti dell'ITC "R. Serra" di Cesena.
+
 
 [Elenco dei partecipanti al corso](iocero.md)
