@@ -5,7 +5,7 @@
 
 ### Perchè ho partecipato?
 
-Tecnologia e didattica sono sempre la mia passione ;-)
+Tecnologia e didattica sono sempre la mia passione ;-) Condividere idee e esperienza è stato molto interessante! Grazie a tutti per aver partecipato!
 
 ## Nicolò
 
