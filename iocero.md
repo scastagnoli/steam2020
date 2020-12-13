@@ -6,3 +6,15 @@
 ### Perchè ho partecipato?
 
 Tecnologia e didattica sono sempre la mia passione ;-)
+
+## Nicolò
+
+## Nico
+
+## Elena
+
+## Annachiara
+
+## Ilaria
+
+## Enrico
